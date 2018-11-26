@@ -1,0 +1,3 @@
+# Ignore every .dat file and everything in results
+*.dat
+results/
