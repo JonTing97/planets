@@ -1,5 +1,5 @@
 # Ignore every .dat file and everything in results
-# *.dat
-# results/
+*.dat
+results/
 
 log_*
